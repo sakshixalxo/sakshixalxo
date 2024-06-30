@@ -1,6 +1,5 @@
+![github-header-image (5)](https://github.com/sakshixalxo/sakshixalxo/assets/86489841/b0ce94a6-213d-434d-aa1d-8a8a4a30d79c)
 
-
-![github-header-image (4)](https://github.com/sakshixalxo/sakshixalxo/assets/86489841/d15b0d5e-e682-4ae5-8ef0-029f7623750e)
 
 <h1 align="center">Hi 👋, I'm Sakshi Arunima Xalxo</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
