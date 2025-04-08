@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NodeJS,ExpressJS and Mongo DB**
 
-- 🤝 I’m looking for help with **Php**
+- 🤝 I’m looking for help with **Spring boot**
 
 - 💬 Ask me about **Mern Stack Development,java and CS core**
 
